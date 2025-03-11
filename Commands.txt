@@ -1,0 +1,5 @@
+Команды
+Установка зависимостей: pip install ttkbootstrap
+
+Запуск: python src/main.py
+Компиляция: pyinstaller --onefile --add-data "assets;assets" src/main.py
